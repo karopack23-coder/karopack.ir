@@ -8,7 +8,7 @@ site:
       path: untitled
       default: true
       content:
-        directory: ./untitled
+        directory: ./karopack
     - type: space
       key: space-2
       title: Imported content
